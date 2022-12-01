@@ -6,7 +6,7 @@ Quick Overview: Dela Eprommer was an EPROM Programmer for Commodore 64. Nowadays
 This is an english translation for the DELA Eprommer II software I made simply using an HEX editor. I also tried to improve the 512k version adding the "6. 27512" menu item (invisible in the german version). Note that not all the program in the .d64 file were translated, just the main program you need for use the hardware.
 If you want to translate the other files, you can extract them from the .d64 with DirMaster (https://style64.org/dirmaster) and edit the text with any HEX editor (I use HxD: https://mh-nexus.de/en/).
 
-In the SOFTWARE folder you will find a ZIP file that contains:
+Here you have a ZIP file that contains:
 
 - The .d64 disk image with two version of software: the original and the other is for the 27512 extension. More info about it at the RetroNynjah page (see link below).
 
