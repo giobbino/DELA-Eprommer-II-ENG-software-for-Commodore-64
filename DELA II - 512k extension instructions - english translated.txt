@@ -1,0 +1,47 @@
+Operating and assembly instructions for the conversion kit for the DELA-EPROMMERII
+Attention! Please read these instructions carefully before installing the EPROMMER!
+By converting your EPROMMER II you will be in the
+Capable of programming 27512 EPROMMS. The
+Conversion is quite easy if you look closely at
+keep the instructions.
+To program a 27512-EPROM, you must have the
+Turn on the extension and use the supplied special soft-
+load goods. The programming process works exactly,
+as with 27256-EPROM's. To get the full 64K of the 27512
+programming, you need two 32K blocks of programming-
+ken switches the extension in front. Except thisblockselek-
+in programming, tiering is nothing more than beach-
+this is more than you are used to from other EPROM's.
+1.Using a side cutter, cut the diode ren.The selection of these blocks-
+(see picture l) on the EPROMMER.
+2.Solder the additional board with the four soldering pins onto the
+four corner points of the text tool version on the solder side of the Pla-
+tine. (Picture 2)
+Note about the software:Pay attention to the use of the
+Software. The special version does not contain a module-
+3. Take a wire and solder it to the gate shown in Figure 2.You can also use the other EPROM with this version-
+marked soldering points.
+programming types.
+The switches on the additional board have the following
+gende Bewege-27512
+killing:
+Right switch:
+Never program a 27256 or other EPROM's as
+in 27512 mode and never program a 27512
+with the normal software or in 27256 mode. Which
+EPROM's and / or the EPROMMER could use these Ver-
+search does not survive.
+Left position: The extension is switched off.
+Right position: The extension is switched on.
+Left switch:
+Left position: upper 32K block (A15=H)
+Right position: lower 32K block (A15=L)
+87151 DELA
+ektronik
+When the extension is turned off, your
+EPROMMER quite normal.
+Image
+Picture 2
+DELA EPROMMER II
+m 85535
+DELA EPII
